@@ -5,11 +5,11 @@ https://sorrelljs.github.io/Form-Validator-/
 ## Form Validator made with Vanilla JS NO CDN'S
 
 ### Features
-*Password matching 
-*password min/max character
-*username min/max character
-*email authenticator 
-*clean unique UI
+- Password matching 
+- password min/max character
+- username min/max character
+- email authenticator 
+- clean unique UI
 
 
 
